@@ -40,7 +40,7 @@ export function AboutSection() {
           <SectionHeading eyebrow="About Me" title="More builder, less buzzword machine" />
           <div className="mt-6 space-y-5 text-lg leading-8 text-ink/[0.74] dark:text-white/[0.72]">
             <p>
-              I&apos;m a Computer Science student who enjoys building systems that actually <em>do</em>
+              I&apos;m a Computer Science student who enjoys building systems that actually <em>do</em> 
               something, especially when AI is involved.
             </p>
             <p>
