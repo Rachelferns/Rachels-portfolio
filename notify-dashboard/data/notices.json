@@ -1,0 +1,20 @@
+[
+  {
+    "id": "ntc-001",
+    "title": "Mid-Semester Exam Schedule Released",
+    "content": "The controller of examinations has published the full timetable for the mid-semester assessments. Students should verify room allocations on the student portal before April 18.",
+    "category": "Exam",
+    "audience": "All Students",
+    "urgent": true,
+    "publishedAt": "2026-04-08T10:00:00.000Z"
+  },
+  {
+    "id": "ntc-002",
+    "title": "Annual Tech Fest Registration Open",
+    "content": "Registration is now open for Innovate 2026. Teams can submit project abstracts until April 20. Final-year students are encouraged to participate in the alumni networking track.",
+    "category": "Event",
+    "audience": "Engineering Department",
+    "urgent": false,
+    "publishedAt": "2026-04-05T08:30:00.000Z"
+  }
+]
